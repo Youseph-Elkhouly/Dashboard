@@ -1,0 +1,14 @@
+{
+  "0": "server.js",
+  "1": "getTranscriptDiff",
+  "2": "AgentManager context handoff",
+  "3": "buildClaudeAgent",
+  "4": "finalizeAgent",
+  "5": "listClaudeAgents",
+  "6": "ADAPTERS",
+  "7": "parseClaudeContent",
+  "8": "parseCodexContent",
+  "9": "readTranscriptPage",
+  "10": "getAgents",
+  "11": "drainPromptQueue"
+}

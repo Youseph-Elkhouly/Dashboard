@@ -1,0 +1,37 @@
+{
+  "server.js": {
+    "mtime": 1793838700.2873156,
+    "ast_hash": "2e9dd93c9f11f116f36826df44c6f78e",
+    "semantic_hash": ""
+  },
+  "context handoff.md": {
+    "mtime": 1793838799.7579188,
+    "ast_hash": "dcc9b3b33ef58a76428d3ade28619d87",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1793838792.93721,
+    "ast_hash": "4978a4b0c5454716d23140eeba68a13e",
+    "semantic_hash": ""
+  },
+  "agent-modes.json": {
+    "mtime": 1793836613.0053422,
+    "ast_hash": "c9cf7bd18e225fa736dd50139a4ca9e2",
+    "semantic_hash": ""
+  },
+  "approval-hook.js": {
+    "mtime": 1793296862.4541843,
+    "ast_hash": "d5da68bd3cd46c4fd7fc00825824973a",
+    "semantic_hash": ""
+  },
+  "imported-projects.json": {
+    "mtime": 1793837404.4707305,
+    "ast_hash": "4b49b0c71b7a347b442748d9b34a60a3",
+    "semantic_hash": ""
+  },
+  "assets/codex-agent-icon.png": {
+    "mtime": 1793835101.2430878,
+    "ast_hash": "be1a8add701a1865f135be4c32339e5f",
+    "semantic_hash": ""
+  }
+}

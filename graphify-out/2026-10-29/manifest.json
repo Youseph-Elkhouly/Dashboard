@@ -1,0 +1,27 @@
+{
+  "server.js": {
+    "mtime": 1793298602.3394742,
+    "ast_hash": "5dcf74d32f6aadbdd34f8ebb7ec294aa",
+    "semantic_hash": ""
+  },
+  "context handoff.md": {
+    "mtime": 1793298778.0227911,
+    "ast_hash": "3e02efa4403b28c2123e2fdbc8837310",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1793298778.0025837,
+    "ast_hash": "25c9d9f1e776a30bec0baa9b94c7fd90",
+    "semantic_hash": ""
+  },
+  "agent-modes.json": {
+    "mtime": 1793298620.0236912,
+    "ast_hash": "5af2bb88f53f929946baedae04da18c0",
+    "semantic_hash": ""
+  },
+  "approval-hook.js": {
+    "mtime": 1793296862.4541843,
+    "ast_hash": "d5da68bd3cd46c4fd7fc00825824973a",
+    "semantic_hash": ""
+  }
+}
